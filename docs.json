@@ -6,14 +6,9 @@
     "group": "Getting Started",
     "pages": [
       {
-        "title": "Getting to know docs.page",
+        "title": "Poker Club HQ Introduction",
         "href": "/",
         "icon": "rocket"
-      },
-      {
-        "title": "Next Steps",
-        "href": "/next-steps",
-        "icon": "arrow-right"
       }
     ]
   }
